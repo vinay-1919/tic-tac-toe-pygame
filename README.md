@@ -12,7 +12,3 @@ A graphical version of Tic Tac Toe built with Pygame.
 ## Requirements
 - Python 3.x
 - Pygame
-
-## Installation
-```bash
-pip install -r requirements.txt
